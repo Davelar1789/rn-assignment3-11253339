@@ -39,11 +39,4 @@ We welcome contributions from the community! If you'd like to contribute to MyAp
 3. Make your changes and ensure that they are properly tested.
 4. Submit a pull request, explaining the purpose of your changes and any considerations for reviewers.
 
-## Support
-
-If you encounter any issues or have any questions about MyApp, please don't hesitate to contact us at support@myapp.com. Our team is here to help you get the most out of the app.
-
-## License
-
-MyApp is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+Happy coding!
