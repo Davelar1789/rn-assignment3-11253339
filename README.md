@@ -16,7 +16,8 @@ MyApp is a fantastic application designed to streamline your daily tasks. Whethe
 
 To install MyApp, follow these simple steps:
 
-1. Clone the repository from GitHub:
+1. Clone the repository from GitHub: 
+git clone https://github.com/Davelar1789/rn-assignment3-11253339.git
 
 
 
