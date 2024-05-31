@@ -21,7 +21,7 @@ git clone https://github.com/Davelar1789/rn-assignment3-11253339.git
 
 2. Navigate to the project directory:
 
-cd myapp
+cd MyApp
 
 3. Install dependencies:
 

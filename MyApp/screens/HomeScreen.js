@@ -51,6 +51,7 @@ const HomeScreen = () => (
       <Image source={require('../assets/filter.png')} style={styles.filterIcon} />
     </View>
     <Text style={styles.sectionHeader}>Categories</Text>
+
     <FlatList
       horizontal
       data={categories}
@@ -117,8 +118,8 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   filterIcon: {
-    width: 30,
-    height: 30,
+    width: 45,
+    height: 45,
     marginLeft: 10,
   },
   sectionHeader: {
