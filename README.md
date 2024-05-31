@@ -19,6 +19,17 @@ To install MyApp, follow these simple steps:
 1. Clone the repository from GitHub: 
 git clone https://github.com/Davelar1789/rn-assignment3-11253339.git
 
+2. Navigate to the project directory:
+
+cd myapp
+
+3. Install dependencies:
+
+npm install
+
+4. Start the application:
+
+npm start
 
 
 ## Usage
