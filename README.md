@@ -31,25 +31,22 @@ npm install
 
 npm start
 
+## Components
+# HomeScreen
+- Description: The main screen of the application displaying the greeting, task count, search bar, categories, and ongoing tasks.
+- Usage: This screen integrates various components like CategoryCard, OngoingTaskItem, and uses a FlatList for rendering categories and ongoing tasks.
+- File: screens/HomeScreen.js
 
-## Usage
+# CategoryCard
+- Description: A card component that displays the category title, number of tasks, and an image.
+- Usage: Used within a horizontal FlatList to display different task categories.
+- File: components/CategoryCard.js
 
-Once MyApp is installed, you can start using it right away. Here are some basic usage instructions:
+# OngoingTaskItem
+- Description: A component that displays the title of an ongoing task.
+- Usage: Used within a FlatList to render the list of ongoing tasks.
+- File: components/OngoingTaskItem.js
 
-1. Sign up for an account or log in if you already have one.
-2. Explore the dashboard to familiarize yourself with the app's layout.
-3. Create tasks, set deadlines, and assign them to team members if necessary.
-4. Use the calendar to schedule events and meetings.
-5. Collaborate with your team by sharing tasks and communicating through the built-in messaging system.
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to MyApp, please follow these guidelines:
-
-1. Fork the repository on GitHub.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and ensure that they are properly tested.
-4. Submit a pull request, explaining the purpose of your changes and any considerations for reviewers.
 
 ## Screenshots
 ![Alt text](./MyApp/assets/shot1.jpg)
