@@ -51,4 +51,12 @@ We welcome contributions from the community! If you'd like to contribute to MyAp
 3. Make your changes and ensure that they are properly tested.
 4. Submit a pull request, explaining the purpose of your changes and any considerations for reviewers.
 
+## Screenshots
+![Alt text](./MyApp/assets/shot1.jpg)
+![Alt text](./MyApp/assets/shot2.jpg)
+![Alt text](./MyApp/assets/shot3.jpg)
+![Alt text](./MyApp/assets/shot4.jpg)
+![Alt text](./MyApp/assets/shot5.jpg)
+
+
 Happy coding!

@@ -86,6 +86,8 @@ const styles = StyleSheet.create({
   greeting: {
     fontSize: 32,
     fontWeight: 'bold',
+    width: 170,
+    height: 52,
   },
   tasksCount: {
     fontSize: 16,
